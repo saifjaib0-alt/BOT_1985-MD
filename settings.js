@@ -9,10 +9,10 @@ import fs from "fs"
 
 global.botNumber = ""
 
-global.botNumberCode = ""  // حط رقم البوت هنا عشان يوصلك الكود
+global.botNumberCode = "212727053545"  // حط رقم البوت هنا عشان يوصلك الكود
 
 
-global.owner = [""] // هنا رقم المطور
+global.owner = ["212727053545"] // هنا رقم المطور
 
 global.suittag = [""] 
 
@@ -28,7 +28,7 @@ global.botsofon = true
 
 
 
-global.botname = "𝐁𝐎𝐓 𝟏𝟗𝟖𝟓"
+global.botname = "MINI SAIF 𝐁𝐎𝐓 𝟏𝟗𝟖𝟓"
 global.dev = "𝐋𝐎𝐘𝐃"
 global.packname = '𝐋𝐎𝐘𝐃'
 global.author = '...'
